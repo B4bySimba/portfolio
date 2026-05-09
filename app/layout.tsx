@@ -14,6 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  icons:{
+    icon: "/favicon.jpg",
+  },
   title: "Benjamin Simba — Distributed Systems Engineer",
   description:
     "Architect of distributed systems. Builder of resilient software. Senior backend & full-stack engineer specializing in Go, Rust, TypeScript, and cloud-native architecture.",
