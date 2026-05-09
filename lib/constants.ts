@@ -98,7 +98,7 @@ export const EXPERIENCE = [
   },
   {
     hash: "b7e2d41",
-    company: "Craft Hub",
+    company: " Projects Craft Hub",
     role: "Lead Developer – Projects",
     duration: "2023 – 2025",
     message: "perf: led SEO & performance optimization, shipped responsive internal dashboards",
